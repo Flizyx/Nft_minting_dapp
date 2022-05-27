@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb0209b59f4c5ab69a9ec5e6659aa9b36ec838bde",
+  "SCAN_LINK": "https://polygonscan.com/token/0xb0209b59f4c5ab69a9ec5e6659aa9b36ec838bde",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Martians247",
+  "SYMBOL": "MT",
+  "MAX_SUPPLY": 10247,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/martians247",
+  "SHOW_BACKGROUND": true
+}
